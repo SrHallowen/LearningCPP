@@ -1,9 +1,10 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello World";
-
-    for (int i = 1; i <= 10; i++) std::cout << i << std::endl;
+    int file_size = 1024;
+    int counter = 0;
+    double sales = 9.99;
+    std::cout << file_size << std::endl;
     return 0;
 
 
