@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 26)
 add_executable(untitled main.cpp
         "Swap Variables.cpp"
         constants.cpp
-        mathematicalExpressions.cpp)
+        mathematicalExpressions.cpp
+        data.cpp)

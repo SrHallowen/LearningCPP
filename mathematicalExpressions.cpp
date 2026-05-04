@@ -1,7 +1,7 @@
 //
 // Created by PcJhon on 5/4/2026.
 //
-
+/*
 #include <iostream>
 
 using namespace std;
@@ -14,4 +14,4 @@ int main() {
     cout << z;
     return 0;
 }
- 
+*/
